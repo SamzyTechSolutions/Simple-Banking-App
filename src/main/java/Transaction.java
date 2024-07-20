@@ -1,3 +1,5 @@
+import interfaces.TransactionInterface;
+
 /**
  * @author Samuel Rich Adiela
  */

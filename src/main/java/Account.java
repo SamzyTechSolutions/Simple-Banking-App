@@ -1,3 +1,5 @@
+import interfaces.AccountInterface;
+
 /**
  * @author Samuel Rich Adiela
  */

@@ -1,3 +1,5 @@
+package interfaces;
+
 /**
  * @author Samuel Rich Adiela
  */
