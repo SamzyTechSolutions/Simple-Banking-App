@@ -14,7 +14,7 @@ A simple banking application implemented in Java with support for consumer and c
 
 The UML class diagram for this application is as follows:
 
-![UML Class Diagram](UMLDiagram.png)
+!![Alt text](UMLDiagram.png)
 
 ## Installation
 
